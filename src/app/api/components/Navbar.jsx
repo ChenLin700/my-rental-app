@@ -13,10 +13,10 @@ export default function Navbar() {
             房源列表
           </Link>
           <Link href="/news" className="text-gray-700 hover:text-blue-600">
-            最新消息224
+            最新消息
           </Link>
           <button className="px-4 py-1 bg-blue-600 text-white rounded hover:bg-blue-700 transition">
-            登入224
+            登入
           </button>
         </div>
       </div>
